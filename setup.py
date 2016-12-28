@@ -7,8 +7,8 @@ setup(
         author='Jota Junior',
         author_email='jotavrj@gmail.com',
         url='https://github.com/jotajunior/easypkg',
-        download_url='https://github.com/jotajunior/easypkg/tarball/0.1',
-        version='0.1',
+        download_url='https://github.com/jotajunior/easypkg/tarball/0.1.1',
+        version='0.1.1',
         packages=find_packages('src'),
         install_requires=[
             'requests',
